@@ -1,0 +1,19 @@
+{
+  "name": "karttrackparser",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.mjs",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "chromedriver": "^103.0.0",
+    "mysql2": "^2.3.3",
+    "node-chromedriver-downloader": "^0.9.2",
+    "node-html-parser": "^5.3.3",
+    "selenium-webdriver": "^4.3.1",
+    "user-agents": "^1.0.1081"
+  }
+}
